@@ -13,5 +13,6 @@ ember.md
 kasztok.md
 tudos.md
 katona.md
+ugynok.md
 adottsagok.md
 keszsegek.md
