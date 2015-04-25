@@ -11,3 +11,4 @@ ember.md
 kasztok.md
 tudos.md
 katona.md
+keszsegek.md
