@@ -1,3 +1,13 @@
 bevezeto.md
 kalandciklus.md
 aktivitas.md
+karakteralkotas.md
+kalandalkotas.md
+jatekmenet.md
+bazisok.md
+cskp.md
+fajok.md
+ember.md
+kasztok.md
+tudos.md
+katona.md
