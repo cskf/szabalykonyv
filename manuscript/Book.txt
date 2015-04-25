@@ -1,6 +1,8 @@
 bevezeto.md
+gyorstalpalo.md
 kalandciklus.md
 aktivitas.md
+staff.md
 karakteralkotas.md
 kalandalkotas.md
 jatekmenet.md
@@ -11,4 +13,5 @@ ember.md
 kasztok.md
 tudos.md
 katona.md
+adottsagok.md
 keszsegek.md
